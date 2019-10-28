@@ -71,13 +71,13 @@ class View extends JFrame {
         tempPanel.add(comboBox);
         JPanel tempPanel2 = new JPanel();
         if(ts == TableSize.SMALL) {
-            tempPanel2.setLayout(new FlowLayout(FlowLayout.CENTER,95,10));
+            tempPanel2.setLayout(new FlowLayout(FlowLayout.CENTER));
         }
         else if(ts == TableSize.MEDIUM) {
-            tempPanel2.setLayout(new FlowLayout(FlowLayout.CENTER,73,10));
+            tempPanel2.setLayout(new FlowLayout(FlowLayout.CENTER));
         }
         else {
-            tempPanel2.setLayout(new FlowLayout(FlowLayout.CENTER,56,10));
+            tempPanel2.setLayout(new FlowLayout(FlowLayout.CENTER));
         }
         for (int i = 0; i < m; i++) {
             borderButtons[i] = new JButton(String.valueOf(i+1));
