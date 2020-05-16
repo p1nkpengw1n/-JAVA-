@@ -1,7 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2332fe2a-3121-4720-a71c-4cd9da837484" name="Default Changelist" comment="" />
+    <list default="true" id="2332fe2a-3121-4720-a71c-4cd9da837484" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/bead2/META-INF/bead2.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/hu/antalnagy/connect4/Controller.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/hu/antalnagy/connect4/Controller.java" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -19,9 +24,22 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
   <component name="ProjectId" id="1RsqeyaayqORBTvtL8628mNeQU8" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="$USER_HOME$/Documents/JavaFX/javafx-sdk-12.0.2/lib/src.zip!/" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="project.structure.last.edited" value="Global Libraries" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -63,7 +81,48 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1570466250297</updated>
+      <workItem from="1572270723181" duration="9000" />
+      <workItem from="1572270810709" duration="7000" />
+      <workItem from="1572270950938" duration="19000" />
+      <workItem from="1572297713002" duration="21000" />
+      <workItem from="1572299708311" duration="644000" />
+      <workItem from="1572470304593" duration="19000" />
+      <workItem from="1572470420292" duration="217000" />
+      <workItem from="1573407213868" duration="67000" />
+      <workItem from="1573420148885" duration="112000" />
+      <workItem from="1573420284405" duration="639000" />
+      <workItem from="1573480494346" duration="664000" />
+      <workItem from="1573583850285" duration="712000" />
+      <workItem from="1573667895075" duration="1176000" />
+      <workItem from="1573752086694" duration="953000" />
+      <workItem from="1574018749322" duration="50000" />
     </task>
     <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.History.Properties">
+    <option name="COLUMN_ORDER">
+      <list>
+        <option value="0" />
+        <option value="2" />
+        <option value="3" />
+        <option value="1" />
+      </list>
+    </option>
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>

@@ -18,7 +18,7 @@ class Controller {
                 if(isWin) {
                     m.popUpAlertWin();
                     Application.newGame("SMALL");
-                    v.setVisible(false); //was told it is a good practice, not sure of its necessity
+                    v.setVisible(false);
                     v.dispose();
                 }
                 else if(m.isDraw()) {
