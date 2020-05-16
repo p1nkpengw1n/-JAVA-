@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="4b279146-f8a7-4aa4-8fb2-9df535165a84" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/$PRODUCT_WORKSPACE_FILE$" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/$PRODUCT_WORKSPACE_FILE$" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Labyrinth.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Labyrinth.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Labyrinth/hu/antalnagy/labyrinth/Application.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Labyrinth/hu/antalnagy/labyrinth/Application.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Labyrinth/hu/antalnagy/labyrinth/Controller.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Labyrinth/hu/antalnagy/labyrinth/Controller.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Labyrinth/hu/antalnagy/labyrinth/Dragon.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Labyrinth/hu/antalnagy/labyrinth/Dragon.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Labyrinth/hu/antalnagy/labyrinth/Model.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Labyrinth/hu/antalnagy/labyrinth/Model.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Labyrinth/hu/antalnagy/labyrinth/Player.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Labyrinth/hu/antalnagy/labyrinth/Player.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Labyrinth/hu/antalnagy/labyrinth/View.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Labyrinth/hu/antalnagy/labyrinth/View.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/hu/antalnagy/labyrinth/Application.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/hu/antalnagy/labyrinth/Application.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/hu/antalnagy/labyrinth/Controller.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/hu/antalnagy/labyrinth/Controller.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/hu/antalnagy/labyrinth/Dragon.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/hu/antalnagy/labyrinth/Dragon.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/hu/antalnagy/labyrinth/Model.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/hu/antalnagy/labyrinth/Model.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/hu/antalnagy/labyrinth/Player.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/hu/antalnagy/labyrinth/Player.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/hu/antalnagy/labyrinth/View.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/hu/antalnagy/labyrinth/View.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1UbdxrFBeuN4v4CyZRUCREJ0Z5D" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="flattenPackages" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="DatabaseDriversLRU" value="mysql" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="restartRequiresConfirmation" value="false" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Application" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="hu.antalnagy.labyrinth.Application" />
+      <module name="Labyrinth" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task id="LOCAL-00001" summary="Bug fixes, code cleanup">
+      <created>1575586273470</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1575586273470</updated>
+    </task>
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4b279146-f8a7-4aa4-8fb2-9df535165a84" name="Default Changelist" comment="" />
+      <created>1575629479241</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1575629479241</updated>
+      <workItem from="1575629484497" duration="185000" />
+      <workItem from="1575806358412" duration="983000" />
+      <workItem from="1589653536799" duration="39000" />
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="Added Database functionality:&#10;Upload and query high scores from (local) mySQL server" />
+    <MESSAGE value="Bug fixes, code cleanup" />
+    <option name="LAST_COMMIT_MESSAGE" value="Bug fixes, code cleanup" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1921" height="289" key="GridCell.Tab.0.bottom" timestamp="1589653575202">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1921" height="289" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1589653575202" />
+    <state width="1921" height="289" key="GridCell.Tab.0.center" timestamp="1589653575202">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1921" height="289" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1589653575202" />
+    <state width="1921" height="289" key="GridCell.Tab.0.left" timestamp="1589653575202">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1921" height="289" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1589653575202" />
+    <state width="1921" height="289" key="GridCell.Tab.0.right" timestamp="1589653575202">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1921" height="289" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1589653575202" />
+  </component>
+</project>
